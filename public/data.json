@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Daniel",
+        "email": "daniel@gmail.com",
+        "post": "I love football",
+        "votes": 5
+    },
+    {
+        "id": 2,
+        "name": "Ivan",
+        "email": "ivan@gmail.com",
+        "post": "I love swimming",
+        "votes": 4
+    }
+]
