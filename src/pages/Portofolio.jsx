@@ -1,23 +1,14 @@
-import { useState, useEffect } from "react"
+import { useEffect } from "react"
+import { useDispatch, useSelector } from "react-redux";
+import { fetchPosts } from "../store/action/actionCreator";
 
 function Portofolio() {
-    const [posts, setPosts] = useState([])
+    const dispatch = useDispatch()
+    const posts = useSelector(state => state.posts)
 
     useEffect(() => {
-        const fetchData = async () => {
-            try {
-                const response = await fetch('posts.json')
-                const json = await response.json()
-                setPosts(json)
-            } catch (error) {
-                console.log(error, 'Error');
-            }
-        }
-
-        fetchData()
+        dispatch(fetchPosts())
     }, [])
-
-    console.log(posts, '<===============');
 
     return (
         <section className="mt-12 mx-auto px-4 max-w-screen-xl md:px-8">
