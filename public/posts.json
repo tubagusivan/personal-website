@@ -1,38 +1,38 @@
 [
     {
-        "title": "What is SaaS? Software as a Service Explained",
-        "desc": "Going into this journey, I had a standard therapy regimen, based on looking at the research literature. After I saw the movie, I started to ask other people what they did for their anxiety, and some",
-        "img": "https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "authorLogo": "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
-        "authorName": "Sidi dev",
-        "date": "Jan 4 2022",
-        "href": "#"
+        "title": "QlueDashboard",
+        "desc": "QlueDashboard takes the pain away from leaders having to analyze multiple platforms and dashboards to understand their businesses and/or organizations. QlueDashboard gives leaders a single platform to make sense of all the information in their organization, enabling them to find data correlations, conduct seamless integrations, manage issues, and monitor the mobile workforce.",
+        "img": "https://cdn.dribbble.com/users/2286340/screenshots/5919227/dashboard.jpg",
+        "authorLogo": "https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1",
+        "authorName": "React",
+        "date": "Jan 2022",
+        "href": "https://dashboard.qlue.ai/"
     },
     {
-        "title": "A Quick Guide to WordPress Hosting",
-        "desc": "According to him, â€œI'm still surprised that this has happened. But we are surprised because we are so surprised.â€More revelations about Whittington will be featured in the film",
-        "img": "https://images.unsplash.com/photo-1620287341056-49a2f1ab2fdc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "authorLogo": "https://api.uifaces.co/our-content/donated/FJkauyEa.jpg",
-        "authorName": "Micheal",
-        "date": "Jan 4 2022",
-        "href": "#"
+        "title": "LOKASI Intelligence",
+        "desc": "LOKASI Intelligence integrates GIS Software, Big data, Analytics, and machine learning. LOKASI is able to Visualize, Analyze and Optimize the business into a one-stop integrated platform.",
+        "img": "https://bvarta.com/wp-content/uploads/2021/06/Site-selection.png",
+        "authorLogo": "https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1",
+        "authorName": "React",
+        "date": "Dec 2022",
+        "href": "https://www.lokasiintelligence.com/"
     },
     {
-        "title": "7 Promising VS Code Extensions Introduced in 2022",
-        "desc": "I hope I remembered all the stuff that they needed to know. They're like, 'okay,' and write it in their little reading notebooks. I realized today that I have all this stuff that",
-        "img": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "authorLogo": "https://randomuser.me/api/portraits/men/46.jpg",
-        "authorName": "Luis",
-        "date": "Jan 4 2022",
-        "href": "#"
+        "title": "iPlaces App",
+        "desc": "iPlaces is sharing, review and recommendation web app, view on geospatial location/maps. iPlaces created on individual project on Phase 2 Hacktiv8.",
+        "img": "https://hacktiv8.s3.ap-southeast-1.amazonaws.com/iPlaces.png",
+        "authorLogo": "https://i.imgur.com/XHVmK6T.png",
+        "authorName": "Vue",
+        "date": "March 2023",
+        "href": "https://iplaces-78728.web.app/"
     },
     {
-        "title": "How to Use Root C++ Interpreter Shell to Write C++ Programs",
-        "desc": "The powerful gravity waves resulting from the impact of the planets' moons â€” four in total â€” were finally resolved in 2015 when gravitational microlensing was used to observe the",
-        "img": "https://images.unsplash.com/photo-1617529497471-9218633199c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "authorLogo": "https://api.uifaces.co/our-content/donated/KtCFjlD4.jpg",
-        "authorName": "Lourin",
-        "date": "Jan 4 2022",
-        "href": "#"
+        "title": "Marugame Udon Site Clone",
+        "desc": "Marugame Udon Site Clone is a project on phase 3 Hacktiv8, this website has build with react js, react router and redux, this project has CMS for managing the content site.",
+        "img": "https://hacktiv8.s3.ap-southeast-1.amazonaws.com/marugame-udon-clone.png",
+        "authorLogo": "https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1",
+        "authorName": "React",
+        "date": "April 2023",
+        "href": "https://phase3-client-user.web.app/"
     }
 ]
