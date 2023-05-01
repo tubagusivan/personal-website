@@ -2,6 +2,8 @@ import { useEffect } from "react"
 import { useDispatch, useSelector } from "react-redux";
 import { fetchPosts } from "../store/action/actionCreator";
 import hr from '../assets/curve-hr.svg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCircleArrowRight, } from "@fortawesome/free-solid-svg-icons";
 
 function Portofolio() {
     const dispatch = useDispatch()
@@ -12,7 +14,7 @@ function Portofolio() {
     }, [])
 
     return (
-        <section className="mt-12 mx-auto px-4 max-w-screen-xl md:px-8">
+        <section className="pt-20 mx-auto px-4 max-w-screen-xl md:px-8">
             <div className="text-center bg">
                 <h1 className="mt-3 text-3xl text-gray-800 font-semibold">
                     Portofolio
@@ -41,6 +43,9 @@ function Portofolio() {
                                         {items.title}
                                     </h3>
                                     <p className="text-gray-400 text-sm mt-1">{items.desc}</p>
+                                </div>
+                                <div className='w-full lg:p-8 p-4 flex items-center justify-between'>
+                                    <a href={items.href} className='mt-2 block font-light text-gray-800'>View Project <FontAwesomeIcon className='ml-2' icon={faCircleArrowRight} /> </a>
                                 </div>
                             </a>
                         </article>
